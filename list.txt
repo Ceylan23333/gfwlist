@@ -1132,7 +1132,7 @@ blogspot.com
 !--OFFICIAL URL list at: https://kastatus.com
 
 !!---Microsoft---
-!--@@||bing.com
+||bing.com
 ||copilot.microsoft.com
 
 !!---NaughtyAmerica---
@@ -1202,7 +1202,7 @@ cn.nytstyle.com
 
 !!---Twitch---
 ||jtvnw.net
-||ttvnw.net
+!--||ttvnw.net
 ||twitch.tv
 ||twitchcdn.net
 
