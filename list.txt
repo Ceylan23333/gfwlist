@@ -896,7 +896,8 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
-||*.google
+||gle
+||google
 ||doc.new
 ||form.new
 ||forms.new
@@ -1571,6 +1572,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||amuletmc.com
 ||abplive.com
 ||cdn.arstechnica.net
 ||aomedia.org
@@ -2308,39 +2310,27 @@ cdp2006.org
 ||chaturbate.com
 .chuang-yen.org
 ||checkgfw.com
-chengmingmag.com
-.chenguangcheng.com
+||chengmingmag.com
 ||chenguangcheng.com
-.chenpokong.com
 ||chenpokong.com
 ||chenpokongvip.com
 ||cherrysave.com
-.chhongbi.org
-chicagoncmtv.com
-|http://chicagoncmtv.com
-.china-week.com
-china101.com
+||chhongbi.org
+||china-week.com
 ||china101.com
 ||china18.org
 ||china21.com
-china21.org
 ||china21.org
-.china5000.us
-chinaaffairs.org
+||china5000.us
 ||chinaaffairs.org
-chinaaid.us
-chinaaid.org
-chinaaid.net
+||chinaaid.us
+||chinaaid.org
 ||chinaaid.net
-.chinachange.org
 ||chinachange.org
-chinachannel.hk
 ||chinachannel.hk
 ||chinademocrats.org
-.chinadialogue.net
-.chinadigitaltimes.net
+||chinadialogue.net
 ||chinadigitaltimes.net
-.chinaelections.org
 ||chinaelections.org
 ||chinafile.com
 ||chinafreepress.org
@@ -2566,6 +2556,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||doom9.org
 ||dweb.link
 ||docker.io
 ||disneyplus.com
@@ -2791,6 +2782,7 @@ xys.dxiong.com
 .dzze.com
 
 !--------------------EE-------------------------
+||e621.net
 ||edx-cdn.org
 ||everipedia.org
 ||epochtimes.com.tw
@@ -2961,6 +2953,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||forbes.com
 ||financialexpress.com
 ||fast.com
 ||factchecklab.org
@@ -3183,9 +3176,6 @@ tibetlibre.free.fr
 ||freedomhouse.org
 .freedomsherald.org
 ||freedomsherald.org
-.freefq.com
-.freefuckvids.com
-.freegao.com
 ||freegao.com
 freeilhamtohti.org
 ||freekazakhs.org
@@ -4023,6 +4013,11 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||president.ir
+||gov.ir
+||irna.ir
+||arvanstorage.ir
+||irangov.ir
 ||india.com
 ||indiatoday.in
 ||invidio.us
@@ -5206,6 +5201,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||img.picgo.net
 ||pornmate.com
 ||puredns.org
 ||polymarket.com
@@ -5531,6 +5527,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||radmin-vpn.com
 ||rule34video.com
 ||r10s.jp
 ||rakuten.co.jp
@@ -7464,7 +7461,7 @@ writer.zoho.com
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
-
+@@||i.pki.goog
 !---Some are powered by GuXiang (BGP), please comment off if
 !---you encounter connectivity issues.
 @@||adservice.google.com
